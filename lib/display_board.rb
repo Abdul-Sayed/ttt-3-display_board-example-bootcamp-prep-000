@@ -3,5 +3,10 @@
 
 
 def display_board
-   print "   |   |   \n-----------\n   |   |   \n-----------\n   |   |"
+  # print "   |   |   \n-----------\n   |   |   \n-----------\n   |   |"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
